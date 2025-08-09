@@ -13,3 +13,6 @@ La pagina consiste de ingresar nombres de tus amigos a los que vayan a participa
 - A continuacion mostrara la lista de amigos a sortear (Dependiendo cuanto sean saldran todos)
 - Una vez ingresado los nombres de los participantes, se procederan a sortear todos los incluidos
 - En caso de no cumplir con los numeros de persona, el juego no va a funcionar.
+
+# Prueba este juego
+## Enlace: https://andreswr0.github.io/amigo-secreto/
